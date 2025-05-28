@@ -1,7 +1,6 @@
 # 🧠 TrackMate – Backend API
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-🚀-green)
+![Go](https://img.shields.io/badge/Go-Gin-blue?logo=go)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
 ![Render](https://img.shields.io/badge/Deployed-Render-blueviolet)
 
@@ -11,11 +10,11 @@ TrackMate’s backend powers real-time logistics tracking and management using F
 - REST APIs & WebSocket support
 - Driver & Vehicle CRUD
 - Maintenance scheduling logic
-- JWT-based Auth (coming soon)
+- JWT-based Auth
 
 ## Frontend
 - WebApp : https://github.com/chiragRane-Projects/trackmate-webapp.git
-- MobileApp :
+- MobileApp : 
 
 
 ## 🛠️ Setup
